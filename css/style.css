@@ -1,0 +1,24 @@
+small{
+    color: rgb(123, 200, 226);
+}
+.vlog{
+    background-color: seashell;
+    border: 5px solid rgb(194, 165, 0);
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+    width: 50%;
+    height: 300px;
+   margin: 50px auto;
+}
+.author-name{
+    color: sandybrown;
+}
+.vlog-title{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
